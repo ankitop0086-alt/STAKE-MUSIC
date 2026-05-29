@@ -113,8 +113,8 @@ SHASHANK_IMG = [
     "https://files.catbox.moe/vl8ad7.jpg",
     "https://files.catbox.moe/8r7k6f.jpg",
     "https://files.catbox.moe/29u5kz.jpg",
-    "https://files.catbox.moe/dqtuv2.jpg",
-    "https://files.catbox.moe/ac3tzn.jpg"
+    "https://files.catbox.moe/r1k8hb.jpg",
+    "https://files.catbox.moe/qhgr50.jpg"
 ]
 
 
